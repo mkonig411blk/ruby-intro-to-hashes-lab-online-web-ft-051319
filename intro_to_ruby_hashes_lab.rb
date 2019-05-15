@@ -24,10 +24,8 @@ monopoly = {:railroads => {
               :names=> {
                 
               }
-                :rent_in_dollars=> {
-                  
-                }
-},
+                
+}
           
   
 	  
